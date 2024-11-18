@@ -13,6 +13,7 @@ public class FactorialApp extends JFrame implements ActionListener {
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(null);
         //A new change
+        // the second chnge
 
         JLabel promptLabel = new JLabel("Enter a number:");
         promptLabel.setBounds(30, 30, 100, 25);
